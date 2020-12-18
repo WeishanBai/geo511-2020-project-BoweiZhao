@@ -13,7 +13,7 @@ This project is used to study the spatial distribution of COVID-19 in New York C
 
 # Materials and methods
 
-<br>
+<br> 
 
 ## Data Source  
 
@@ -157,7 +157,7 @@ ggheatmap <- ggplot(melted_nyc_corr, aes(Var2, Var1, fill = value))+
 
 <br>
 
-# Results
+# Results 
 
 <br>
 
